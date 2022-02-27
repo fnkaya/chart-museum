@@ -3,7 +3,7 @@ entries:
   todo-backend:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-02-27T20:22:37.441534+03:00"
+    created: "2022-02-27T20:39:44.480517+03:00"
     description: A Helm chart for Kubernetes
     digest: 1b7972897d057c2ccc5a3bef5e8073ebd9667961471d0cc42c0cd3770e5f0404
     name: todo-backend
@@ -13,7 +13,7 @@ entries:
     version: 0.6.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-02-27T20:22:37.441349+03:00"
+    created: "2022-02-27T20:39:44.479574+03:00"
     description: A Helm chart for Kubernetes
     digest: 3c31900138933525877ab0a18f71984b09db886ec74ce1997c68d3a48d7abf0e
     name: todo-backend
@@ -23,7 +23,7 @@ entries:
     version: 0.5.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-02-27T20:22:37.441077+03:00"
+    created: "2022-02-27T20:39:44.479166+03:00"
     description: A Helm chart for Kubernetes
     digest: 35b81feddb71b1c84f8d0edd4c044ccf125cee481e303eda35404b420fa74549
     name: todo-backend
@@ -33,7 +33,7 @@ entries:
     version: 0.4.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-02-27T20:22:37.440781+03:00"
+    created: "2022-02-27T20:39:44.478612+03:00"
     description: A Helm chart for Kubernetes
     digest: 04c6b6c308015f8335bc089bcacdfe8f57e062d2cad6103a0531f95c5f74b9c7
     name: todo-backend
@@ -43,7 +43,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-02-27T20:22:37.440492+03:00"
+    created: "2022-02-27T20:39:44.477301+03:00"
     description: A Helm chart for Kubernetes
     digest: e94864d9457ddfd541cfe708cf3c25c15f47ae78155457dd0d5733e90eb251e4
     name: todo-backend
@@ -53,7 +53,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-02-27T20:22:37.440122+03:00"
+    created: "2022-02-27T20:39:44.475442+03:00"
     description: A Helm chart for Kubernetes
     digest: 3640941e5b5f8cc4c4625a4efbe6797ee4f8f77aedc6554f4f749e92d3868ead
     name: todo-backend
@@ -61,4 +61,15 @@ entries:
     urls:
     - https://fnkaya.github.io/chart-museum/todo-backend-0.1.0.tgz
     version: 0.1.0
-generated: "2022-02-27T20:22:37.439355+03:00"
+  todo-frontend:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-02-27T20:39:44.481166+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 8175b3cadaa8af9684792488e48dcfde93f87fc3d9a883c542997aa10b51ff37
+    name: todo-frontend
+    type: application
+    urls:
+    - https://fnkaya.github.io/chart-museum/todo-frontend-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-02-27T20:39:44.464539+03:00"
